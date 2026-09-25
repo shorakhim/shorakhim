@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shorakhim 👋
 
-<!--
-**shorakhim/shorakhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Tashkent, Uzbekistan → Raised in Brooklyn, New York → Currently in Brooklyn, New York.
+- Outside of work I like to Train Martial Arts and Work out.
+- Let's connect via email: shorakhimshomansurov@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+
+### Languages
+
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
