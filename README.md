@@ -12,9 +12,12 @@
 ### Languages
 
 - Python
+- Java
+- JavaScript
 
 ### Tools
 
 - Git
 - GitHub
 - VS Code
+- Apache NetBeans
